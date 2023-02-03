@@ -1,0 +1,11 @@
+.app {
+  min-height: calc(100vh - 4rem);
+  display: flex;
+  flex-direction: column;
+  padding: 2rem;
+}
+
+.card {
+  display: block;
+  width: 100%;
+}
